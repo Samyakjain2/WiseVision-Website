@@ -75,4 +75,4 @@ By continually innovating and expanding our features, Wise Vision aims to provid
 We welcome contributions from the community! If you have suggestions or improvements, please submit a pull request or open an issue on our GitHub repository.
 
 Contact 📧
-For inquiries or support, please contact us at sanikachavan1806@gmail.com.
+For inquiries or support, please contact us at samyakdjain03@gmail.com.
